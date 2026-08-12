@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Ali</h1>
-<h3 align="center">AI Full Stack Developer | Building Scalable Real-World Systems</h3>
+<h3 align="center">SDE-1 @Techdome | Ex-TCS | Scalable Backends, Microservices & Applied GenAI</h3> <!--[cite: 7] -->
 
 ---
 
@@ -7,36 +7,75 @@
 
 ## 🚀 About Me
 
-- I build systems that solve real-world problems using AI  
-- 2+ years experience in Full Stack + Backend + GenAI  
-- Built systems processing **20M+ data records**  
-- Focused on **RAG, AI Agents, and scalable APIs**
+- 🔭 I’m currently working as a **Software Development Engineer (SDE-1)** at Techdome. <!--[cite: 7] -->
+- 💻 I specialize in **Scalable Backend Architecture, Microservices, and AI-Native Workflows**.
+- 🧠 Deeply focused on **Applied GenAI, RAG, LLM Integrations**, and high-performance REST/gRPC APIs.
+- 🚀 Engineered and scaled data intelligence platforms processing **20M+ records**.
+- 🌐 Check out my live projects and work: [**sameer-portfolio0288.netlify.app**](https://sameer-portfolio0288.netlify.app) <!--[cite: 7] -->
 
 ---
-## 📫 How to reach me
 
-- 📧 sameersheikh02880@gmail.com
+## 💡 Current Focus & Engineering Interests
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=sameer0288&label=Profile%20views&color=0e75b6&style=flat" />
+- **Semantic Search Systems:** RAG pipelines, Vector Databases, and OCR. <!--[cite: 7] -->
+- **AI Agents:** Multiagent workflows utilizing OpenAI, Claude, and LangChain. <!--[cite: 7] -->
+- **High-Performance Backends:** Node.js, Python, and FastAPI for low-latency data retrieval.
+- **Data Engineering:** Automated web scraping, data processing pipelines, and indexing.
+
+---
+
+## 🧠 Tech Stack
+
+**Backend & Databases** <br/>
+<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+
+**Frontend & UI** <br/>
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css" />
+
+**Cloud, DevOps & Tools** <br/>
+<img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws" />
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/CI%2FCD-000?style=for-the-badge&logo=github-actions" />
+
+---
+
+## 🔥 Highlight Project
+
+### 🚀 AI Startup Intelligence Platform
+- Processed and structured **20M+ startup records**.
+- Architected a **Vector DB + RAG system** for intelligent semantic search.
+- Designed the end-to-end cloud-native system (Backend + Frontend + AI Integration).
+
+---
+
+## 📊 GitHub & Problem Solving
+
+<p align="left">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=sameer0288&theme=radical&cache_seconds=1800" />
 </p>
+<br><br><br><br><br><br><br>
 
-## 💡 Current Focus
-
-- 🔍 Semantic Search Systems (RAG + Vector DB)
-- 🤖 AI Agents using OpenAI / Claude
-- ⚡ FastAPI + scalable backend systems
-- 📊 Data pipelines (scraping → processing → indexing)
+- 🧩 **Data Structures & Algorithms:** Solved **250+ problems** on LeetCode & GeeksForGeeks. <!--[cite: 7] -->
+- 📦 **Open Source:** 80+ repositories and 1000+ GitHub contributions. <!--[cite: 7] -->
 
 ---
 
-## 🤝 Connect With Me
+## 📫 How to Reach Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sameer0288/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="mailto:sameersheikh02880@gmail.com">
+<a href="mailto:sameersheikh0288@gmail.com"> <!--[cite: 7] -->
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 <a href="https://github.com/sameer0288">
@@ -44,79 +83,12 @@
 </a>
 </p>
 
----
-
-## 🧠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,react,nextjs,mongodb,postgres,docker,aws,git,typescript" />
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=sameer0288&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sameer0288&show_icons=true&theme=radical&cache_seconds=1800" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sameer0288&theme=radical&cache_seconds=1800" />
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
-<img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws" />
-</p>
-
----
-
-## 🧩 LeetCode
-
-- Solved **250+ DSA problems**
-
-<!--
-LeetCode Card (hidden for now)
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/sameersheikh0288?theme=dark&font=baloo&ext=heatmap" />
-</p>
--->
-
----
-
-## 🔥 Highlight Project
-
-### 🚀 AI Startup Intelligence Platform
-- Processed **20M+ startup records**
-- Built **vector DB + RAG system**
-- Enabled **semantic search for investors**
-- Designed **end-to-end system (backend + frontend + AI)**
-
----
-
-## ⚡ GitHub Growth
-
-- 📦 80+ repositories
-- 🧪 Continuous experimentation in AI + Full Stack
-- 📈 Consistent contribution & learning mindset
-
----
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
 
 ---
 
 ## 🧠 Philosophy
 
-> Build real systems. Ship fast. Learn faster.
+> **Build real systems. Ship fast. Learn faster.**
