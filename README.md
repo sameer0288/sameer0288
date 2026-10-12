@@ -11,7 +11,7 @@
 - 💻 I specialize in **Scalable Backend Architecture, Microservices, and AI-Native Workflows**.
 - 🧠 Deeply focused on **Applied GenAI, RAG, LLM Integrations**, and high-performance REST/gRPC APIs.
 - 🚀 Engineered and scaled data intelligence platforms processing **20M+ records**.
-- 🌐 Check out my live projects and work: [**sameer-portfolio0288.netlify.app**](https://sameer-portfolio0288.netlify.app) <!--[cite: 7] -->
+- 🌐 Check out my live projects and work: [**sameer-portfolio0288.netlify.app**](https://portfolio-sameer-orcin.vercel.app/) <!--[cite: 7] -->
 
 ---
 
